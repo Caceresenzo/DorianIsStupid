@@ -1,0 +1,289 @@
+| Unix time                     | 1526452635999 [16/05/18 08:37]         |
+| SSID                          | Autruche 2006                          |
+| BSSID                         | 00:11:24:a7:d5:66                      |
+| Signal strength(-dBm)         | -85                                    |
+| Frequency                     | 12412                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 12                                     |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3961816775197997                     |
+| Latitude                      | 47.08297089021456                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526401559000 [15/05/18 18:25]         |
+| SSID                          | maxime18                               |
+| BSSID                         | 00:15:6d:3e:24:7d                      |
+| Signal strength(-dBm)         | -67                                    |
+| Frequency                     | 52432                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3897439392219275                     |
+| Latitude                      | 47.15463381190061                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526451994000 [16/05/18 08:26]         |
+| SSID                          | WSTDOULCHARD_MAG                       |
+| BSSID                         | 00:15:70:25:99:3c                      |
+| Signal strength(-dBm)         | -88                                    |
+| Frequency                     | 62437                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3742766808708553                     |
+| Latitude                      | 47.118288630336316                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452411999 [16/05/18 08:33]         |
+| SSID                          |                                        |
+| BSSID                         | 00:1f:9f:bb:ed:d5                      |
+| Signal strength(-dBm)         | -67                                    |
+| Frequency                     | 12412                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 6                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3875022917642728                     |
+| Latitude                      | 47.08686079464939                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452344999 [16/05/18 08:32]         |
+| SSID                          | freebox_MPCSBW                         |
+| BSSID                         | 00:24:d4:c8:ce:0c                      |
+| Signal strength(-dBm)         | -85                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 3                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3828978928863997                     |
+| Latitude                      | 47.094543204837294                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452198000 [16/05/18 08:29]         |
+| SSID                          | Wifi_freebox                           |
+| BSSID                         | 00:24:d4:d4:44:34                      |
+| Signal strength(-dBm)         | -86                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.38080209147372                       |
+| Latitude                      | 47.10053170207405                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452184000 [16/05/18 08:29]         |
+| SSID                          | DLINK_WIRELESS                         |
+| BSSID                         | 00:50:7f:71:9f:80                      |
+| Signal strength(-dBm)         | -84                                    |
+| Frequency                     | 62437                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3802451918635272                     |
+| Latitude                      | 47.10231303847396                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526451991000 [16/05/18 08:26]         |
+| SSID                          | WSTDOULCHARD_MAG                       |
+| BSSID                         | 00:a0:f8:e9:1f:cc                      |
+| Signal strength(-dBm)         | -87                                    |
+| Frequency                     | 62437                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.373930404925234                      |
+| Latitude                      | 47.118462783860025                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452686999 [16/05/18 08:38]         |
+| SSID                          | Solectek Skway7KPTMP                   |
+| BSSID                         | 00:c0:61:00:c5:2f                      |
+| Signal strength(-dBm)         | -80                                    |
+| Frequency                     | -5500                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 12                                     |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3987815980267704                     |
+| Latitude                      | 47.080224394712275                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452576999 [16/05/18 08:36]         |
+| SSID                          | freebox_annick                         |
+| BSSID                         | 14:0c:76:a3:f0:7d                      |
+| Signal strength(-dBm)         | -78                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 8                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.39347042788343                       |
+| Latitude                      | 47.085714488363884                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452576999 [16/05/18 08:36]         |
+| SSID                          | freebox_annick                         |
+| BSSID                         | 14:0c:76:d3:fb:88                      |
+| Signal strength(-dBm)         | -79                                    |
+| Frequency                     | -5620                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 8                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.39347042788343                       |
+| Latitude                      | 47.085714488363884                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452660999 [16/05/18 08:37]         |
+| SSID                          | IC_4AA7CF                              |
+| BSSID                         | 58:98:35:59:85:0f                      |
+| Signal strength(-dBm)         | -85                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 6                                      |
+| AP Capabilities               | [WEP][ESS][WPS]                        |
+| Longitude                     | 2.397599871253804                      |
+| Latitude                      | 47.081482195797925                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526451605000 [16/05/18 08:20]         |
+| SSID                          |                                        |
+| BSSID                         | 62:45:b1:ca:55:ad                      |
+| Signal strength(-dBm)         | -82                                    |
+| Frequency                     | 62437                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3632504998075943                     |
+| Latitude                      | 47.17632344311433                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452557999 [16/05/18 08:35]         |
+| SSID                          |                                        |
+| BSSID                         | 62:45:b1:ed:4f:5c                      |
+| Signal strength(-dBm)         | -85                                    |
+| Frequency                     | -5200                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 12                                     |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3929409467684937                     |
+| Latitude                      | 47.08612378669387                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452624999 [16/05/18 08:37]         |
+| SSID                          | FREEBOX_GENEVIEVE_6T                   |
+| BSSID                         | 68:a3:78:12:3e:42                      |
+| Signal strength(-dBm)         | -66                                    |
+| Frequency                     | 22417                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 12                                     |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3959916589674597                     |
+| Latitude                      | 47.08300829115225                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452761999 [16/05/18 08:39]         |
+| SSID                          | freeboxarlette                         |
+| BSSID                         | 68:a3:78:73:e6:f3                      |
+| Signal strength(-dBm)         | -87                                    |
+| Frequency                     | 22417                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 6                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.403460203630659                      |
+| Latitude                      | 47.07713110298651                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452229999 [16/05/18 08:30]         |
+| SSID                          | freebox_VOZRZH                         |
+| BSSID                         | 68:a3:78:85:3a:98                      |
+| Signal strength(-dBm)         | -74                                    |
+| Frequency                     | 32422                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 8                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3809922419580705                     |
+| Latitude                      | 47.099958601018464                     |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452624999 [16/05/18 08:37]         |
+| SSID                          | Brocus                                 |
+| BSSID                         | 68:a3:78:89:f7:c2                      |
+| Signal strength(-dBm)         | -82                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 12                                     |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3959916589674597                     |
+| Latitude                      | 47.08300829115225                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452641999 [16/05/18 08:37]         |
+| SSID                          | freeboxJP                              |
+| BSSID                         | 68:a3:78:8a:c6:cf                      |
+| Signal strength(-dBm)         | -81                                    |
+| Frequency                     | 72442                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 6                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.396341980430965                      |
+| Latitude                      | 47.08290455622243                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526451758000 [16/05/18 08:22]         |
+| SSID                          |                                        |
+| BSSID                         | 80:26:89:ae:66:a9                      |
+| Signal strength(-dBm)         | -89                                    |
+| Frequency                     | 12412                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.353833567598997                      |
+| Latitude                      | 47.15360528600277                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526451922000 [16/05/18 08:25]         |
+| SSID                          | TPBDUCENTRE                            |
+| BSSID                         | 80:26:89:b0:0c:c0                      |
+| Signal strength(-dBm)         | -90                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3710043278751587                     |
+| Latitude                      | 47.12339793598307                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526451922000 [16/05/18 08:25]         |
+| SSID                          | FORMATION                              |
+| BSSID                         | 80:26:89:b0:0c:c1                      |
+| Signal strength(-dBm)         | -87                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 4                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3710043278751587                     |
+| Latitude                      | 47.12339793598307                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452594999 [16/05/18 08:36]         |
+| SSID                          |                                        |
+| BSSID                         | 8a:15:14:2b:a2:ff                      |
+| Signal strength(-dBm)         | -86                                    |
+| Frequency                     | -5680                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 12                                     |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.394866011318079                      |
+| Latitude                      | 47.08457385263584                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452594999 [16/05/18 08:36]         |
+| SSID                          |                                        |
+| BSSID                         | 8a:15:14:2b:d9:ff                      |
+| Signal strength(-dBm)         | -91                                    |
+| Frequency                     | -5240                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 12                                     |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.394866011318079                      |
+| Latitude                      | 47.08457385263584                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452621999 [16/05/18 08:37]         |
+| SSID                          | gcsapi                                 |
+| BSSID                         | c4:a8:1d:91:d7:e8                      |
+| Signal strength(-dBm)         | -82                                    |
+| Frequency                     | 52432                                  |
+| Channel                       |                                        |
+| GPS Accuracy                  | 8                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.395922101246782                      |
+| Latitude                      | 47.08305833485194                      |
++-------------------------------+----------------------------------------+
+| Unix time                     | 1526452020000 [16/05/18 08:27]         |
+| SSID                          | webboul                                |
+| BSSID                         | ca:d7:19:6a:1c:15                      |
+| Signal strength(-dBm)         | -88                                    |
+| Frequency                     | 112462                                 |
+| Channel                       |                                        |
+| GPS Accuracy                  | 3                                      |
+| AP Capabilities               | [WEP][ESS]                             |
+| Longitude                     | 2.3758309993147466                     |
+| Latitude                      | 47.11494192593778                      |
++-------------------------------+----------------------------------------+
+| Found values                  | 26                                     |
+| Total values                  | 1397                                   |
++-------------------------------+----------------------------------------+
