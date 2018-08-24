@@ -1,0 +1,7 @@
+Entrer une valeur a convertir 
+8
+Entrer une unitee d'entree 
+w
+Entrer une unitee de sortie 
+kw
+0.008
